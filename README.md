@@ -31,7 +31,7 @@ TF-IDF + Logistic Regression, Naive Bayes, Linear SVM, Decision Tree, and a majo
 ## Authors
 - Maha Alhayek 223410325
 - Baria Alsaikhan 223410397
-— Seba Nabeel 224410349 
+*  Seba Nabeel 224410349 
 
 ## Use of AI
 150 of 165 queries were AI-generated and manually reviewed. AI assistance was also used for code suggestions. See the report for details.
